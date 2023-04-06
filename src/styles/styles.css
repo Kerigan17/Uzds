@@ -525,7 +525,7 @@ span {
         z-index: -1;
     }
     1% {
-        transform: translateY(5px);
+        transform: translateY(10px);
         z-index: 0;
     }
     20% {
